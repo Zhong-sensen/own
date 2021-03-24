@@ -17,31 +17,31 @@
 ### Markdown：    
 https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax     
 1、**粗体** //（前后都有两个星号）  
-3、*斜体*  //前后各一个星号       
-2、~~删除~~ // (前后各两个短波浪号)      
-3、`语法高亮`  //（前后各一个小票票）     
-4、添加图片 //图片直接拖进文本框中，会有对话框提示一个链接     
-5、Tasklist语法  //后面学习！！！！！     
-6、**这句话_非常重要_**   //粗体和嵌套斜体（前后各两个星号，中间夹各一个下划线）    
-7、 > 引号的作用是显示注释文本    
-8、将代码或文本格式化为自己独立块，使用三次反引号     
+2、*斜体*  //前后各一个星号       
+3、~~删除~~ // (前后各两个短波浪号)      
+4、`语法高亮`  //（前后各一个小票票）     
+5、添加图片 //图片直接拖进文本框中，会有对话框提示一个链接     
+6、Tasklist语法  //后面学习！！！！！     
+7、**这句话_非常重要_**   //粗体和嵌套斜体（前后各两个星号，中间夹各一个下划线）    
+8、 > 引号的作用是显示注释文本    
+9、将代码或文本格式化为自己独立块，使用三次反引号     
   ```   
   Git 状态    
   Git 添加    
   Git 提交    
   ```     
-9、链接     
+10、链接     
   This site was built using [GitHub Pages](https://pages.github.com/).    
   格式：【要链接的字】（链接的网站）……实际用时用英文字符    
   如：这是我的[Gitee账号](https://gitee.com/zhongsensen).     
-10、板块内部链接     
+11、板块内部链接     
   悬停在部分标题上可以显示，比如开头的Markdown.   
-11、相对链接     
+12、相对链接     
   相对链接是相对于当前文件的链接。    
   如果您的存储库根目录中有一个README文件，而在docs / CONTRIBUTING.md中有另一个文件，则自述文件中指向CONTRIBUTING.md的相对链接可能如下所示：
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)      
-12、清单
+13、清单
   在行首或多行文本之前加-或者`*`来形成无序列表      
   如：     
   - 星期一
@@ -54,7 +54,7 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
   2、学习     
   3、睡觉     
  
-13、嵌套列表     
+14、嵌套列表     
   和顺序清单一样，但是下面要加上-的分支，自然形成嵌套     
   如：     
   1、上课
@@ -63,14 +63,14 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
     - 写文章
     - 练字
 
-14、任务清单      
+15、任务清单      
   和无序清单一样，但是后面要加一个[]。如果完成，里面要加X，实际显示出来就会有√      
   如：     
-  - [X]学习Markdown
-  - []查找文献
-  - []找老师询问任务
+  -[X] 学习Markdown
+  -[ ] 查找文献
+  -[ ] 找老师询问任务
 
-15、段落   
+16、段落   
   文本行之间留空行来创建新的段落 或者是 每一行后面打至少3个空格     
   
   目前，就写这么多吧！我觉得现阶段我已经够用了。学习C语言和C++去了！
