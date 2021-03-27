@@ -84,6 +84,17 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
   
   今天到明天中午的计划是全心全意做模拟题，也熟悉一下感觉！就酱~       
   
+## 2021.03.27 计算机考试
+  今天中午12点半考试，考完我就来记录这两天的学习，哈哈哈！我感觉还不错！基本上都做起了。    
+  昨今两天在未来教育上面刷题，那种感觉回来了，对计算机有个初探的感觉，还需要学习呀！     
+  
+  昨天晚上看了一下Linus，大家都在用Ubuntu，而没有用censto…… (:<)最后我又下了Ubuntu……     
+  还想将VMware player升级，哈哈哈哈……unsuccessful!
+  看了一下MIT和Colorado School of Mines，牛的牛的！关注了一下下CWP和MADAGASCAR.      
+  昨天曹教授讲的人工智能的讲座太厉害了！哇哦~              
+  
+  今天和未来几天把论文的数理模型弄出来，然后继续学习计算机！:)    
+  
   
   
   
