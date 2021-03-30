@@ -105,6 +105,14 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
   哈哈哈！:D     
   做好计划，一步步来！    
   
+## 2021.03.30 制定计划
+  昨天上午和晚上把英文文献彻底搞定。下午在MOOC上学了一点东西，了解一下。   
+  
+  今天主要去完成论文的下一个步骤，然后学习MATLAB，已经找到如何学习的比较好的途径和方法了。    
+  未来还是论文和计算机学习双轨制吧！两手都要抓，两手都要硬！:D    
+  
+  
+  
   
   
 
