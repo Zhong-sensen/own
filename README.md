@@ -120,7 +120,11 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
   好像越写越多了，该清理一下GitHub等一些电子账户那些了。        
   就这几天吧，也做个总结，刚好放清明假期！    
   
+## 2021.04.02 复盘和休整的一天
+  今天把知乎的收藏给整理分类和总结了一下，有新的体会。    
+  算是一个阶段性总结吧，也回望了整个大学。  
   
+  今天地大武汉出结果，斌哥哥上了，还一起吃了晚饭。hhhhhh~    
   
 
 
