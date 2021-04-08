@@ -126,6 +126,13 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
   
   今天地大武汉出结果，斌哥哥上了，还一起吃了晚饭。hhhhhh~    
   
-
+## 2021.04.08 放假回来的第一篇diary
+  清明放了三天，把知乎和B站的收藏夹整理了，看了以前写的QQ圈、朋友圈和微博，哈哈哈哈！好蠢！     
+  回来两天了，昨天把政审和资料、材料等弄好了，这两天把MATLAB也练着。   
+  波场模拟写C，哇喔！有挑战性！       
+  准备跑步！
+  
+  未来MATLAB还要一起加油呀！     
+  
 
 
