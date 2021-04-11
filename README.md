@@ -134,5 +134,8 @@ https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting
   
   未来MATLAB还要一起加油呀！     
   
-
+## 2021.04.11 MATLAB进行中   
+  这几天恒定能比较高强度的学习MATLAB，可以跟着教材和视频打几百行代码，坚持！    
+  论文也准备近日重启，并入日常工作。实用工具也学习了一段时间了，可以应用了吧！    
+  
 
